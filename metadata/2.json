@@ -1,7 +1,7 @@
 {
   "name": "CodeDuel Pass #2 (Silver)",
   "description": "Silver Early Pass – accès anticipé 72 h, 10 bonus runs par semaine.",
-  "image": "https://<votre-utilisateur>.github.io/codeduel-metadata/metadata/images/2.png",
+  "image": "https://elient45.github.io/codeduel-metadata/metadata/images/2.png",
   "attributes": [
     { "trait_type": "Tier",      "value": "Silver" },
     { "trait_type": "Validity",  "value": "3 mois" },

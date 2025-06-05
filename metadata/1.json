@@ -1,7 +1,7 @@
 {
   "name": "CodeDuel Pass #1 (Bronze)",
   "description": "Bronze Early Pass – 48h early access, 5 bonus runs/week.",
-  "image": "https://<votre-utilisateur>.github.io/codeduel-metadata/metadata/images/1.png",
+  "image": "https://elient45.github.io/codeduel-metadata/metadata/images/1.png",
   "attributes": [
     { "trait_type": "Tier",      "value": "Bronze" },
     { "trait_type": "Validity",  "value": "1 mois" },

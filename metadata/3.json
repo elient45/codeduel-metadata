@@ -1,7 +1,7 @@
 {
   "name": "CodeDuel Pass #3 (Gold)",
   "description": "Gold Early Pass – accès anticipé 1 semaine, 15 bonus runs par semaine.",
-  "image": "https://<votre-utilisateur>.github.io/codeduel-metadata/metadata/images/3.png",
+  "image": "https://elient45.github.io/codeduel-metadata/metadata/images/3.png",
   "attributes": [
     { "trait_type": "Tier",      "value": "Gold" },
     { "trait_type": "Validity",  "value": "6 mois" },
