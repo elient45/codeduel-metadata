@@ -1,0 +1,15 @@
+{
+  "name": "CodeDuel Pass #3 (Gold)",
+  "description": "Gold Early Pass – accès anticipé 1 semaine, 15 bonus runs par semaine.",
+  "image": "https://<votre-utilisateur>.github.io/codeduel-metadata/metadata/images/3.png",
+  "attributes": [
+    { "trait_type": "Tier",      "value": "Gold" },
+    { "trait_type": "Validity",  "value": "6 mois" },
+    { "trait_type": "Price",     "value": "200 €" },
+    { "trait_type": "Benefit 1", "value": "1 week early access" },
+    { "trait_type": "Benefit 2", "value": "15 bonus runs/week" },
+    { "trait_type": "Benefit 3", "value": "6 months of premium features" },
+    { "trait_type": "Benefit 4", "value": "2 free tournaments/month" },
+    { "trait_type": "Benefit 5", "value": "Access to monthly AMA voice channel on Discord" }
+  ]
+}

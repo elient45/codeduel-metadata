@@ -1,0 +1,15 @@
+{
+  "name": "CodeDuel Pass #2 (Silver)",
+  "description": "Silver Early Pass – accès anticipé 72 h, 10 bonus runs par semaine.",
+  "image": "https://<votre-utilisateur>.github.io/codeduel-metadata/metadata/images/2.png",
+  "attributes": [
+    { "trait_type": "Tier",      "value": "Silver" },
+    { "trait_type": "Validity",  "value": "3 mois" },
+    { "trait_type": "Price",     "value": "100 €" },
+    { "trait_type": "Benefit 1", "value": "72h early access" },
+    { "trait_type": "Benefit 2", "value": "10 bonus runs/week" },
+    { "trait_type": "Benefit 3", "value": "3 months of premium features" },
+    { "trait_type": "Benefit 4", "value": "1 free tournament/month" },
+    { "trait_type": "Benefit 5", "value": "Access to private voice channel on Discord" }
+  ]
+}

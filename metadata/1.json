@@ -1,0 +1,15 @@
+{
+  "name": "CodeDuel Pass #1 (Bronze)",
+  "description": "Bronze Early Pass – 48h early access, 5 bonus runs/week.",
+  "image": "https://<votre-utilisateur>.github.io/codeduel-metadata/metadata/images/1.png",
+  "attributes": [
+    { "trait_type": "Tier",      "value": "Bronze" },
+    { "trait_type": "Validity",  "value": "1 mois" },
+    { "trait_type": "Price",     "value": "50 €" },
+    { "trait_type": "Benefit 1", "value": "48h early access" },
+    { "trait_type": "Benefit 2", "value": "5 bonus runs/week" },
+    { "trait_type": "Benefit 3", "value": "1 month of premium features" },
+    { "trait_type": "Benefit 4", "value": "0 free tournaments/month" },
+    { "trait_type": "Benefit 5", "value": "Access to #early-pass Discord channel" }
+  ]
+}
